@@ -5,7 +5,7 @@ This project focuses on build a Convolutional Neural Networks (CNNs) based model
 Traffic sign recognition plays a crucial role in autonomous vehicles and driver assistance systems. This project aims to develop and implement a machine learning model capable of accurately identifying and classifying various traffic signs commonly found on German roads.
 
 ## Dataset
-The project utilizes the GTSRB dataset, comprising approximately 40,000 25x25 RGB images of 42 different traffic signs. The dataset captures signs under various conditions, including different weather, lighting, and angles, simulating real-world scenarios.
+The project utilizes the GTSRB dataset, comprising approximately 40,000 25x25 RGB images of 43 different traffic signs. The dataset captures signs under various conditions, including different weather, lighting, and angles, simulating real-world scenarios.
 
 #### Dataset Source: Kaggle - GTSRB Dataset: https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign?select=Train
 
