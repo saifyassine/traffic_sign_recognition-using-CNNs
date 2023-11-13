@@ -23,9 +23,8 @@ Training involves optimizing the model parameters to achieve high accuracy in si
 The trained model is saved for future use and is also converted into a TensorFlow Lite model for potential deployment in resource-constrained environments.
 ## Instructions for Use
 ### Prerequisites
-Python3
-
-The libraries in the requirement.txt file
+#### Python3
+#### The libraries in the requirement.txt file
 ### Steps
 #### 1.Dataset Handling
 
