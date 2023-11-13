@@ -1,4 +1,4 @@
-# traffic_sign_recognition_project using CNNs
+# Traffic Signr Recognition Project using CNNs
 This project focuses on build a Convolutional Neural Networks (CNNs) based model to recognize and classify German traffic signs using the GTSRB (German Traffic Sign Recognition Benchmark) dataset.
 
 ## Overview
